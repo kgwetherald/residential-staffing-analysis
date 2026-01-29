@@ -1,0 +1,8 @@
+data/README.md
+This folder contains simulated datasets used for the analysis.
+sql/README.md
+This folder contains SQL queries used to analyze staffing coverage and incident trends.
+notebooks/README.md
+This folder contains Python notebooks for data cleaning and exploratory analysis.
+visuals/README.md
+This folder contains screenshots of dashboards and charts created for this project.
