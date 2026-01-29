@@ -35,3 +35,5 @@ Datasets include:
 - Monitor overtime as a leading indicator of instability
 
 ## Repository Structure
+## Case Study Summary
+This project is based on my experience as a Residential Supervisor, where I oversaw staff scheduling, incident response, and client safety across multiple residential programs. The analysis demonstrates how operational data can be leveraged to proactively reduce risk and improve care outcomes.
