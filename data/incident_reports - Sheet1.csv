@@ -1,0 +1,9 @@
+incident_id,date,shift,incident_type,severity_level,home_id
+INC001,2025-07-01,Evening,Behavioral,Moderate,Home_A
+INC002,2025-07-01,Night,Crisis Event,High,Home_A
+INC003,2025-07-02,Night,Medication Error,High,Home_A
+INC004,2025-07-02,Evening,Behavioral,Low,Home_A
+INC005,2025-07-01,Evening,Behavioral,Low,Home_B
+INC006,2025-07-01,Night,Crisis Event,Moderate,Home_B
+INC007,2025-07-02,Night,Medication Error,High,Home_B
+INC008,2025-07-02,Evening,Behavioral,Moderate,Home_B

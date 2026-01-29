@@ -1,0 +1,7 @@
+client_id,home_id,days_since_last_incident,hospitalizations_90_days,length_of_stay_days
+C001,Home_A,5,1,120
+C002,Home_A,18,0,240
+C003,Home_A,2,2,90
+C004,Home_B,30,0,365
+C005,Home_B,14,1,180
+C006,Home_B,45,0,420

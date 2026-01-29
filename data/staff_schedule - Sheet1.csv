@@ -1,0 +1,13 @@
+date,shift,staff_count,supervisor_on_duty,overtime_hours,home_id
+2025-07-01,Day,4,Yes,0,Home_A
+2025-07-01,Evening,3,Yes,1.5,Home_A
+2025-07-01,Night,2,No,3,Home_A
+2025-07-02,Day,4,Yes,0,Home_A
+2025-07-02,Evening,3,No,2,Home_A
+2025-07-02,Night,2,No,4,Home_A
+2025-07-01,Day,5,Yes,0,Home_B
+2025-07-01,Evening,4,Yes,1,Home_B
+2025-07-01,Night,3,No,2.5,Home_B
+2025-07-02,Day,5,Yes,0,Home_B
+2025-07-02,Evening,4,Yes,1.2,Home_B
+2025-07-02,Night,3,No,2,Home_B
